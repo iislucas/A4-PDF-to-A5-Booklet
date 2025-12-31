@@ -1,0 +1,5 @@
+{
+  "name": "A5 Booklet Maker",
+  "description": "Reorder A4 PDF pages for easy A5 booklet printing (2 pages per sheet).",
+  "requestFramePermissions": []
+}
